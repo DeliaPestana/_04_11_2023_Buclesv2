@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b76b42f8-f499-45fa-bcd3-d16a46bdd3db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_04_11_2023_Bucles.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/BucleWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/EjemploEdades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/EjercicioSueldo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/PalabraReservadaBreakContinue.java" afterDir="false" />
+    <list default="true" id="b76b42f8-f499-45fa-bcd3-d16a46bdd3db" name="Changes" comment="Dia 11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hedima/presentacion/BucleWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/BucleWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hedima/presentacion/EjemploEdades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/EjemploEdades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hedima/presentacion/EjercicioSueldo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/EjercicioSueldo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hedima/presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hedima/presentacion/PalabraReservadaBreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/PalabraReservadaBreakContinue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +52,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682024362412</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dia 11">
+      <created>1682068029600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682068029600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dia 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dia 11" />
   </component>
 </project>
